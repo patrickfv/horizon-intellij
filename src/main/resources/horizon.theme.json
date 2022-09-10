@@ -1,0 +1,23 @@
+{
+  "name": "Horizon",
+  "dark": true,
+  "author": "Patrickfv",
+  "colors": {
+    "red": "#F43E5C",
+    "red02": "#E95678",
+    "dark": "#1A1C23",
+    "dark02": "#2E303E",
+    "dark03": "#1C1E26",
+    "gray": "#D5D8DA",
+    "pink": "#E9436D",
+    "pink02": "#E95378",
+    "black": "#06060C",
+    "blue": "#26BBD9",
+    "cyan": "#59E1E3",
+    "green": "#29D398",
+    "magenta": "#EE64AC",
+    "yellow": "#FAB795"
+  },
+  "ui": {
+  }
+}

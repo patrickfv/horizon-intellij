@@ -1,0 +1,8 @@
+{
+  "name": "Horizon Bright",
+  "dark": false,
+  "author": "Patrickfv",
+  "ui": {
+    "Button.background": "#F9CBBE"
+  }
+}
