@@ -28,6 +28,13 @@
       "underlinedTabBackground": "dark03",
       "inactiveColoredFileBackground": "dark03",
       "background": "dark03"
+    },
+    "Panel": {
+      "background": "dark03"
+    },
+    "Viewport.background": "dark03",
+    "*": {
+      "background": "dark03"
     }
   }
 }
