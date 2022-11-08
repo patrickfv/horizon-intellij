@@ -2,6 +2,7 @@
   "name": "Horizon",
   "dark": true,
   "author": "Patrickfv",
+  "editorScheme": "/horizon.xml",
   "colors": {
     "red": "#F43E5C",
     "red02": "#E95678",
@@ -32,6 +33,7 @@
     "Panel": {
       "background": "dark03"
     },
+    "TextArea.background": "dark",
     "Viewport.background": "dark03",
     "*": {
       "background": "dark03"
