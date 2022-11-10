@@ -198,5 +198,30 @@
         <option name="FOREGROUND" value="f43e5c" />
       </value>
     </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="d5d8da" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="d5d8da" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d58679" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="d58679" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="fab795" />
+      </value>
+    </option>
   </attributes>
 </scheme>
