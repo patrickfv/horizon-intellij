@@ -36,7 +36,12 @@
     "TextArea.background": "dark",
     "Viewport.background": "dark03",
     "*": {
-      "background": "dark03"
+      "separatorColor": "dark02",
+      "background": "dark03",
+      "inactiveBackground": "dark03",
+      "selectionBackground": "#252732",
+      "selectionInactiveBackground": "#22232D",
+      "foreground": "gray"
     }
-  }
+  } 
 }
