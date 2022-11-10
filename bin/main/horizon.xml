@@ -1,16 +1,34 @@
 <scheme name="Horizon" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-11-10T07:47:34</property>
+    <property name="created">2022-11-10T12:41:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-11-10T07:47:37</property>
+    <property name="modified">2022-11-10T12:41:59</property>
     <property name="originalScheme">_@user_Horizon</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="e95378" />
     <option name="CARET_ROW_COLOR" value="22232d" />
+    <option name="FILESTATUS_ADDED" value="29d398" />
+    <option name="FILESTATUS_COPIED" value="29d398" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f5157" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e95678" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e95678" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e95678" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="29d398" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="29d398" />
+    <option name="FILESTATUS_MERGED" value="ee64ac" />
+    <option name="FILESTATUS_MODIFIED" value="fab795" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="59e1e3" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="59e1e3" />
+    <option name="FILESTATUS_RENAMED" value="59e1e3" />
+    <option name="FILESTATUS_UNKNOWN" value="e95678" />
+    <option name="FILESTATUS_addedOutside" value="29d398" />
+    <option name="FILESTATUS_changelistConflict" value="e95678" />
+    <option name="FILESTATUS_modifiedOutside" value="fab795" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1c1e26" />
-    <option name="GUTTER_BACKGROUND" value="1C1E26" />
+    <option name="GUTTER_BACKGROUND" value="1c1e26" />
     <option name="INDENT_GUIDE" value="1c1e26" />
     <option name="LINE_NUMBERS_COLOR" value="343646" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="343646" />
