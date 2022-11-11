@@ -92,6 +92,16 @@
     "Menu": {
       "borderColor": "dark02"
     },
+    "TextArea": {
+      "background": "#2E303E",
+      "caretForeground": "gray",
+      "selectionForeground": "gray"
+    },
+    "TextField": {
+      "background": "#2E303E",
+      "caretForeground": "gray",
+      "darkShadow": "#2E303E"
+    },
     "Popup.borderColor": "dark02"
   } 
 }
