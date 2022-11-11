@@ -3,104 +3,89 @@
   "dark": false,
   "author": "Patrickfv",
   "editorScheme": "/horizon_bright.xml",
-  "colors": {
-    "red": "#F43E5C",
-    "red02": "#DC3318",
-    "bright02": "#F9CBBE",
-    "bright03": "#FDF0ED",
-    "gray": "#D5D8DA",
-    "pink": "#E9436D",
-    "pink02": "#E95378",
-    "black": "#06060C",
-    "blue": "#26BBD9",
-    "cyan": "#59E1E3",
-    "green": "#29D398",
-    "magenta": "#EE64AC",
-    "yellow": "#FAB795"
-  },
   "ui": {
     "EditorTabs": {
-      "hoverBackground": "bright03",
-      "borderColor": "bright03",
-      "inactiveUnderlineColor": "bright03",
-      "underlineColor": "pink02",
+      "hoverBackground": "#FDF0ED",
+      "borderColor": "#FDF0ED",
+      "inactiveUnderlineColor": "#FDF0ED",
+      "underlineColor": "#E95378",
       "underlineHeight": 2,
-      "underlinedTabBackground": "bright03",
-      "inactiveColoredFileBackground": "bright03",
-      "background": "bright03"
+      "underlinedTabBackground": "#FDF0ED",
+      "inactiveColoredFileBackground": "#FDF0ED",
+      "background": "#FDF0ED"
     },
     "Panel": {
-      "background": "bright03"
+      "background": "#FDF0ED"
     },
     "TextArea.background": "#FDF0ED",
-    "Viewport.background": "bright03",
+    "Viewport.background": "#FDF0ED",
     "*": {
-      "separatorColor": "bright03",
-      "borderColor": "bright03",
-      "background": "bright03",
-      "inactiveBackground": "bright03",
-      "selectionBackground": "bright02",
-      "selectionInactiveBackground": "bright02",
-      "disabledText": "bright02",
-      "foreground": "black",
-      "focusColor": "pink",
-      "focusedBorderColor": "bright02"
+      "separatorColor": "#FDF0ED",
+      "borderColor": "#FDF0ED",
+      "background": "#FDF0ED",
+      "inactiveBackground": "#FDF0ED",
+      "selectionBackground": "#F9CBBE",
+      "selectionInactiveBackground": "#F9CBBE",
+      "disabledText": "#F9CBBE",
+      "foreground": "#06060C",
+      "focusColor": "#E9436D",
+      "focusedBorderColor": "#F9CBBE"
     },
     "Borders": {
-      "color": "bright03",
-      "ContrastBorderColor": "bright02"
+      "color": "#FDF0ED",
+      "ContrastBorderColor": "#F9CBBE"
     },
     "Button": {
-      "startBackground": "bright02",
-      "endBackground": "bright02",
-      "startBorderColor": "bright02",
-      "endBorderColor": "bright02",
-      "focusedBorderColor": "bright02",
-      "shadowColor": "bright02",
+      "startBackground": "#F9CBBE",
+      "endBackground": "#F9CBBE",
+      "startBorderColor": "#F9CBBE",
+      "endBorderColor": "#F9CBBE",
+      "focusedBorderColor": "#F9CBBE",
+      "shadowColor": "#F9CBBE",
       "default": {
-        "startBackground": "pink02",
-        "endBackground": "pink02",
-        "startBorderColor": "pink02",
-        "endBorderColor": "pink02",
-        "focusedBorderColor": "pink",
-        "shadowColor": "pink02",
-        "foreground": "black",
-        "focusColor": "pink"
+        "startBackground": "#E95378",
+        "endBackground": "#E95378",
+        "startBorderColor": "#E95378",
+        "endBorderColor": "#E95378",
+        "focusedBorderColor": "#E9436D",
+        "shadowColor": "#E95378",
+        "foreground": "#06060C",
+        "focusColor": "#E9436D"
       }
     },
     "ActionButton": {
-      "hoverBackground": "bright02",
-      "hoverBorderColor": "bright02",
-      "pressedBackground": "bright02",
-      "pressedBorderColor": "bright02"
+      "hoverBackground": "#F9CBBE",
+      "hoverBorderColor": "#F9CBBE",
+      "pressedBackground": "#F9CBBE",
+      "pressedBorderColor": "#F9CBBE"
     },
     "ProgressBar": {
-      "background": "green",
-      "failedColor": "red",
-      "failedEndColor": "red02",
-      "indeterminateEndColor": "green",
-      "indeterminateStartColor": "green",
-      "passedColor": "green",
-      "passedEndColor": "green",
-      "progressColor": "green",
-      "selectionBackground": "bright02",
-      "selectionForeground": "bright02",
-      "trackColor": "bright02"
+      "background": "#29D398",
+      "failedColor": "#F43E5C",
+      "failedEndColor": "#DC3318",
+      "indeterminateEndColor": "#29D398",
+      "indeterminateStartColor": "#29D398",
+      "passedColor": "#29D398",
+      "passedEndColor": "#29D398",
+      "progressColor": "#29D398",
+      "selectionBackground": "#F9CBBE",
+      "selectionForeground": "#F9CBBE",
+      "trackColor": "#F9CBBE"
     },
     "Menu": {
-      "borderColor": "bright02"
+      "borderColor": "#F9CBBE"
     },
     "TextArea": {
       "background": "#F7C9BC",
-      "caretForeground": "black",
-      "selectionForeground": "black"
+      "caretForeground": "#06060C",
+      "selectionForeground": "#06060C"
     },
     "TextField": {
       "background": "#F7C9BC",
-      "caretForeground": "black",
+      "caretForeground": "#06060C",
       "darkShadow": "#F7C9BC"
     },
-    "Popup.borderColor": "bright02",
+    "Popup.borderColor": "#F9CBBE",
     "ComboBox": {
       "nonEditableBackground": "#F9CBBE",
       "ArrowButton": {

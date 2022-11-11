@@ -3,107 +3,91 @@
   "dark": true,
   "author": "Patrickfv",
   "editorScheme": "/horizon.xml",
-  "colors": {
-    "red": "#F43E5C",
-    "red02": "#E95678",
-    "dark": "#1A1C23",
-    "dark02": "#2E303E",
-    "dark03": "#1C1E26",
-    "gray": "#D5D8DA",
-    "pink": "#E9436D",
-    "pink02": "#E95378",
-    "black": "#06060C",
-    "blue": "#26BBD9",
-    "cyan": "#59E1E3",
-    "green": "#29D398",
-    "magenta": "#EE64AC",
-    "yellow": "#FAB795"
-  },
   "ui": {
     "EditorTabs": {
-      "hoverBackground": "dark03",
-      "borderColor": "dark03",
-      "inactiveUnderlineColor": "dark03",
-      "underlineColor": "pink02",
+      "hoverBackground": "#1C1E26",
+      "borderColor": "#1C1E26",
+      "inactiveUnderlineColor": "#1C1E26",
+      "underlineColor": "#E95378",
       "underlineHeight": 2,
-      "underlinedTabBackground": "dark03",
-      "inactiveColoredFileBackground": "dark03",
-      "background": "dark03"
+      "underlinedTabBackground": "#1C1E26",
+      "inactiveColo#F43E5CFileBackground": "#1C1E26",
+      "background": "#1C1E26"
     },
     "Panel": {
-      "background": "dark03"
+      "background": "#1C1E26"
     },
-    "TextArea.background": "dark",
-    "Viewport.background": "dark03",
+    "TextArea.background": "#1A1C23",
+    "Viewport.background": "#1C1E26",
     "*": {
-      "separatorColor": "dark03",
-      "borderColor": "dark03",
-      "background": "dark03",
-      "inactiveBackground": "dark03",
+      "separatorColor": "#1C1E26",
+      "borderColor": "#1C1E26",
+      "background": "#1C1E26",
+      "inactiveBackground": "#1C1E26",
       "selectionBackground": "#252732",
       "selectionInactiveBackground": "#22232D",
-      "disabledText": "dark02",
-      "foreground": "gray",
-      "focusColor": "pink",
-      "focusedBorderColor": "dark02"
+      "disabledText": "#2E303E",
+      "foreground": "#D5D8DA",
+      "focusColor": "#E9436D",
+      "focusedBorderColor": "#2E303E"
     },
     "Borders": {
-      "color": "dark03",
-      "ContrastBorderColor": "dark02"
+      "color": "#1C1E26",
+      "ContrastBorderColor": "#2E303E"
     },
     "Button": {
-      "startBackground": "dark02",
-      "endBackground": "dark02",
-      "startBorderColor": "dark02",
-      "endBorderColor": "dark02",
-      "focusedBorderColor": "dark02",
-      "shadowColor": "dark02",
+      "startBackground": "#2E303E",
+      "endBackground": "#2E303E",
+      "startBorderColor": "#2E303E",
+      "endBorderColor": "#2E303E",
+      "focusedBorderColor": "#2E303E",
+      "shadowColor": "#2E303E",
       "default": {
         
-        "startBackground": "pink02",
-        "endBackground": "pink02",
-        "startBorderColor": "pink02",
-        "endBorderColor": "pink02",
-        "focusedBorderColor": "pink",
-        "shadowColor": "pink02",
+        "startBackground": "#E95378",
+        "endBackground": "#E95378",
+        "startBorderColor": "#E95378",
+        "endBorderColor": "#E95378",
+        "focusedBorderColor": "#E9436D",
+        "shadowColor": "#E95378",
 
-        "foreground": "gray",
-        "focusColor": "pink"
+        "foreground": "#D5D8DA",
+        "focusColor": "#E9436D"
       }
     },
     "ActionButton": {
-      "hoverBackground": "dark02",
-      "hoverBorderColor": "dark02",
-      "pressedBackground": "dark02",
-      "pressedBorderColor": "dark02"
+      "hoverBackground": "#2E303E",
+      "hoverBorderColor": "#2E303E",
+      "pressedBackground": "#2E303E",
+      "pressedBorderColor": "#2E303E"
     },
     "ProgressBar": {
-      "background": "green",
-      "failedColor": "red",
-      "failedEndColor": "red02",
-      "indeterminateEndColor": "green",
-      "indeterminateStartColor": "green",
-      "passedColor": "green",
-      "passedEndColor": "green",
-      "progressColor": "green",
-      "selectionBackground": "dark02",
-      "selectionForeground": "dark02",
-      "trackColor": "dark02"
+      "background": "#29D398",
+      "failedColor": "#F43E5C",
+      "failedEndColor": "#F43E5C",
+      "indeterminateEndColor": "#29D398",
+      "indeterminateStartColor": "#29D398",
+      "passedColor": "#29D398",
+      "passedEndColor": "#29D398",
+      "progressColor": "#29D398",
+      "selectionBackground": "#2E303E",
+      "selectionForeground": "#2E303E",
+      "trackColor": "#2E303E"
     },
     "Menu": {
-      "borderColor": "dark02"
+      "borderColor": "#2E303E"
     },
     "TextArea": {
       "background": "#2E303E",
-      "caretForeground": "gray",
-      "selectionForeground": "gray"
+      "caretForeground": "#D5D8DA",
+      "selectionForeground": "#D5D8DA"
     },
     "TextField": {
       "background": "#2E303E",
-      "caretForeground": "gray",
-      "darkShadow": "#2E303E"
+      "caretForeground": "#D5D8DA",
+      "#1A1C23Shadow": "#2E303E"
     },
-    "Popup.borderColor": "dark02",
+    "Popup.borderColor": "#2E303E",
     "ComboBox": {
       "nonEditableBackground": "#2E303E",
       "ArrowButton": {
@@ -113,23 +97,23 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#2E303E",
-      "Checkbox.Background.Disabled.Dark": "#2E303E",
-      "Checkbox.Border.Disabled.Dark": "#2E303E",
-      "Checkbox.Border.Selected.Dark": "#2E303E",
+      "Checkbox.Background.Default.dark": "#2E303E",
+      "Checkbox.Background.Disabled.dark": "#2E303E",
+      "Checkbox.Border.Disabled.dark": "#2E303E",
+      "Checkbox.Border.Selected.dark": "#2E303E",
 
       "Actions.Blue": "#26BBD9",
       "Actions.Green": "#29D398",
       "Actions.Grey": "#D5D8DA",
       "Actions.GreyInline": "#22232d",
-      "Actions.GreyInline.Dark": "#2E303E",
+      "Actions.GreyInline.#1A1C23": "#2E303E",
       "Actions.Red": "#E95678",
       "Actions.Yellow": "#FAB795",
 
       "Objects.BlackText": "#1A1C23",
       "Objects.Blue": "#26BBD9",
       "Objects.Green": "#29D398",
-      "Objects.GreenAndroid": "#29D398",
+      "Objects.GrennAndroid": "#29D398",
       "Objects.Grey": "#D5D8DA",
       "Objects.Purple": "#EE64AC",
       "Objects.Red": "#E95678",
