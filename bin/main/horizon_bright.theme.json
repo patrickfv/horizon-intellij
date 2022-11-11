@@ -2,7 +2,95 @@
   "name": "Horizon Bright",
   "dark": false,
   "author": "Patrickfv",
+  "editorScheme": "/horizon_bright.xml",
+  "colors": {
+    "red": "#F43E5C",
+    "red02": "#DC3318",
+    "bright02": "#F9CBBE",
+    "bright03": "#FDF0ED",
+    "gray": "#D5D8DA",
+    "pink": "#E9436D",
+    "pink02": "#E95378",
+    "black": "#06060C",
+    "blue": "#26BBD9",
+    "cyan": "#59E1E3",
+    "green": "#29D398",
+    "magenta": "#EE64AC",
+    "yellow": "#FAB795"
+  },
   "ui": {
-    "Button.background": "#F9CBBE"
-  }
+    "EditorTabs": {
+      "hoverBackground": "bright03",
+      "borderColor": "bright03",
+      "inactiveUnderlineColor": "bright03",
+      "underlineColor": "pink02",
+      "underlineHeight": 2,
+      "underlinedTabBackground": "bright03",
+      "inactiveColoredFileBackground": "bright03",
+      "background": "bright03"
+    },
+    "Panel": {
+      "background": "bright03"
+    },
+    "TextArea.background": "#FDF0ED",
+    "Viewport.background": "bright03",
+    "*": {
+      "separatorColor": "bright03",
+      "borderColor": "bright03",
+      "background": "bright03",
+      "inactiveBackground": "bright03",
+      "selectionBackground": "bright02",
+      "selectionInactiveBackground": "bright02",
+      "disabledText": "bright02",
+      "foreground": "black",
+      "focusColor": "pink"
+    },
+    "Borders": {
+      "color": "bright03",
+      "ContrastBorderColor": "bright02"
+    },
+    "Button": {
+      "startBackground": "bright02",
+      "endBackground": "bright02",
+      "startBorderColor": "bright02",
+      "endBorderColor": "bright02",
+      "focusedBorderColor": "bright02",
+      "shadowColor": "bright02",
+      "default": {
+        
+        "startBackground": "pink02",
+        "endBackground": "pink02",
+        "startBorderColor": "pink02",
+        "endBorderColor": "pink02",
+        "focusedBorderColor": "pink",
+        "shadowColor": "pink02",
+
+        "foreground": "black",
+        "focusColor": "pink"
+      }
+    },
+    "ActionButton": {
+      "hoverBackground": "bright02",
+      "hoverBorderColor": "bright02",
+      "pressedBackground": "bright02",
+      "pressedBorderColor": "bright02"
+    },
+    "ProgressBar": {
+      "background": "green",
+      "failedColor": "red",
+      "failedEndColor": "red02",
+      "indeterminateEndColor": "green",
+      "indeterminateStartColor": "green",
+      "passedColor": "green",
+      "passedEndColor": "green",
+      "progressColor": "green",
+      "selectionBackground": "bright02",
+      "selectionForeground": "bright02",
+      "trackColor": "bright02"
+    },
+    "Menu": {
+      "borderColor": "bright02"
+    },
+    "Popup.borderColor": "bright02"
+  } 
 }
