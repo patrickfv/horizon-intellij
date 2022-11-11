@@ -11,7 +11,7 @@
       "underlineColor": "#E95378",
       "underlineHeight": 2,
       "underlinedTabBackground": "#1C1E26",
-      "inactiveColo#F43E5CFileBackground": "#1C1E26",
+      "inactiveColoredFileBackground": "#1C1E26",
       "background": "#1C1E26"
     },
     "Panel": {
@@ -85,7 +85,7 @@
     "TextField": {
       "background": "#2E303E",
       "caretForeground": "#D5D8DA",
-      "#1A1C23Shadow": "#2E303E"
+      "darkShadow": "#2E303E"
     },
     "Popup.borderColor": "#2E303E",
     "ComboBox": {
@@ -97,23 +97,23 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.dark": "#2E303E",
-      "Checkbox.Background.Disabled.dark": "#2E303E",
-      "Checkbox.Border.Disabled.dark": "#2E303E",
-      "Checkbox.Border.Selected.dark": "#2E303E",
+      "Checkbox.Background.Default.Dark": "#2E303E",
+      "Checkbox.Background.Disabled.Dark": "#2E303E",
+      "Checkbox.Border.Disabled.Dark": "#2E303E",
+      "Checkbox.Border.Selected.Dark": "#2E303E",
 
       "Actions.Blue": "#26BBD9",
       "Actions.Green": "#29D398",
       "Actions.Grey": "#D5D8DA",
       "Actions.GreyInline": "#22232d",
-      "Actions.GreyInline.#1A1C23": "#2E303E",
+      "Actions.GreyInline.Dark": "#2E303E",
       "Actions.Red": "#E95678",
       "Actions.Yellow": "#FAB795",
 
       "Objects.BlackText": "#1A1C23",
       "Objects.Blue": "#26BBD9",
       "Objects.Green": "#29D398",
-      "Objects.GrennAndroid": "#29D398",
+      "Objects.GreenAndroid": "#29D398",
       "Objects.Grey": "#D5D8DA",
       "Objects.Purple": "#EE64AC",
       "Objects.Red": "#E95678",
