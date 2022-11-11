@@ -43,7 +43,8 @@
       "selectionInactiveBackground": "bright02",
       "disabledText": "bright02",
       "foreground": "black",
-      "focusColor": "pink"
+      "focusColor": "pink",
+      "focusedBorderColor": "bright02"
     },
     "Borders": {
       "color": "bright03",

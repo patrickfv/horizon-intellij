@@ -44,7 +44,8 @@
       "selectionInactiveBackground": "#22232D",
       "disabledText": "dark02",
       "foreground": "gray",
-      "focusColor": "pink"
+      "focusColor": "pink",
+      "focusedBorderColor": "dark02"
     },
     "Borders": {
       "color": "dark03",
