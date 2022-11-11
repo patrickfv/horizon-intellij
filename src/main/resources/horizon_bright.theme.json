@@ -58,14 +58,12 @@
       "focusedBorderColor": "bright02",
       "shadowColor": "bright02",
       "default": {
-        
         "startBackground": "pink02",
         "endBackground": "pink02",
         "startBorderColor": "pink02",
         "endBorderColor": "pink02",
         "focusedBorderColor": "pink",
         "shadowColor": "pink02",
-
         "foreground": "black",
         "focusColor": "pink"
       }
@@ -102,6 +100,39 @@
       "caretForeground": "black",
       "darkShadow": "#F7C9BC"
     },
-    "Popup.borderColor": "bright02"
-  } 
+    "Popup.borderColor": "bright02",
+    "ComboBox": {
+      "nonEditableBackground": "#F9CBBE",
+      "ArrowButton": {
+        "nonEditableBackground": "#F9CBBE"
+      }
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default": "#F9CBBE",
+      "Checkbox.Background.Disabled": "#F9CBBE",
+      "Checkbox.Border.Disabled": "#F9CBBE",
+      "Checkbox.Border.Selected": "#F9CBBE",
+
+      "Actions.Blue": "#3FC4DE",
+      "Actions.Green": "#3FDAA4",
+      "Actions.Grey": "#D5D8DA",
+      "Actions.GreyInline": "#22232d",
+      "Actions.GreyInline.Dark": "#2E303E",
+      "Actions.Red": "#EC6A88",
+      "Actions.Yellow": "#FBC3A7",
+
+      "Objects.BlackText": "#06060C",
+      "Objects.Blue": "#3FC4DE",
+      "Objects.Green": "#3FDAA4",
+      "Objects.GreenAndroid": "#3FDAA4",
+      "Objects.Grey": "#D5D8DA",
+      "Objects.Purple": "#F075B5",
+      "Objects.Red": "#EC6A88",
+      "Objects.RedStatus": "#EC6A88",
+      "Objects.Yellow": "#FBC3A7",
+      "Objects.YellowDark": "#FBC3A7"
+    }
+  }
 }

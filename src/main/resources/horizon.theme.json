@@ -103,6 +103,39 @@
       "caretForeground": "gray",
       "darkShadow": "#2E303E"
     },
-    "Popup.borderColor": "dark02"
-  } 
+    "Popup.borderColor": "dark02",
+    "ComboBox": {
+      "nonEditableBackground": "#2E303E",
+      "ArrowButton": {
+        "nonEditableBackground": "#2E303E"
+      }
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#2E303E",
+      "Checkbox.Background.Disabled.Dark": "#2E303E",
+      "Checkbox.Border.Disabled.Dark": "#2E303E",
+      "Checkbox.Border.Selected.Dark": "#2E303E",
+
+      "Actions.Blue": "#26BBD9",
+      "Actions.Green": "#29D398",
+      "Actions.Grey": "#D5D8DA",
+      "Actions.GreyInline": "#22232d",
+      "Actions.GreyInline.Dark": "#2E303E",
+      "Actions.Red": "#E95678",
+      "Actions.Yellow": "#FAB795",
+
+      "Objects.BlackText": "#1A1C23",
+      "Objects.Blue": "#26BBD9",
+      "Objects.Green": "#29D398",
+      "Objects.GreenAndroid": "#29D398",
+      "Objects.Grey": "#D5D8DA",
+      "Objects.Purple": "#EE64AC",
+      "Objects.Red": "#E95678",
+      "Objects.RedStatus": "#E95678",
+      "Objects.Yellow": "#FAB795",
+      "Objects.YellowDark": "#FAB795"
+    }
+  }
 }
