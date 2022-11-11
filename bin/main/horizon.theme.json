@@ -74,6 +74,19 @@
       "hoverBorderColor": "dark02",
       "pressedBackground": "dark02",
       "pressedBorderColor": "dark02"
+    },
+    "ProgressBar": {
+      "background": "green",
+      "failedColor": "red",
+      "failedEndColor": "red02",
+      "indeterminateEndColor": "green",
+      "indeterminateStartColor": "green",
+      "passedColor": "green",
+      "passedEndColor": "green",
+      "progressColor": "green",
+      "selectionBackground": "dark02",
+      "selectionForeground": "dark02",
+      "trackColor": "dark02"
     }
   } 
 }
