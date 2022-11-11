@@ -87,7 +87,10 @@
       "caretForeground": "#D5D8DA",
       "darkShadow": "#2E303E"
     },
-    "Popup.borderColor": "#2E303E",
+    "Popup": {
+      "borderColor": "#2E303E",
+      "Header.activeBackground": "#1C1E26"
+    },
     "ComboBox": {
       "nonEditableBackground": "#2E303E",
       "ArrowButton": {
@@ -105,8 +108,8 @@
       "Actions.Blue": "#26BBD9",
       "Actions.Green": "#29D398",
       "Actions.Grey": "#D5D8DA",
-      "Actions.GreyInline": "#22232d",
-      "Actions.GreyInline.Dark": "#2E303E",
+      "Actions.GreyInline": "#D5D8DA",
+      "Actions.GreyInline.Dark": "#D5D8DA",
       "Actions.Red": "#E95678",
       "Actions.Yellow": "#FAB795",
 

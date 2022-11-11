@@ -85,7 +85,10 @@
       "caretForeground": "#06060C",
       "darkShadow": "#F7C9BC"
     },
-    "Popup.borderColor": "#F9CBBE",
+    "Popup": {
+      "borderColor": "#F9CBBE",
+      "Header.activeBackground": "#FDF0ED"
+    },
     "ComboBox": {
       "nonEditableBackground": "#F9CBBE",
       "ArrowButton": {
