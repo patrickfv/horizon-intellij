@@ -42,11 +42,38 @@
       "inactiveBackground": "dark03",
       "selectionBackground": "#252732",
       "selectionInactiveBackground": "#22232D",
-      "foreground": "gray"
+      "foreground": "gray",
+      "focusColor": "pink"
     },
     "Borders": {
       "color": "dark03",
       "ContrastBorderColor": "dark02"
+    },
+    "Button": {
+      "startBackground": "dark02",
+      "endBackground": "dark02",
+      "startBorderColor": "dark02",
+      "endBorderColor": "dark02",
+      "focusedBorderColor": "dark02",
+      "shadowColor": "dark02",
+      "default": {
+        
+        "startBackground": "pink02",
+        "endBackground": "pink02",
+        "startBorderColor": "pink02",
+        "endBorderColor": "pink02",
+        "focusedBorderColor": "pink",
+        "shadowColor": "pink02",
+
+        "foreground": "gray",
+        "focusColor": "pink"
+      }
+    },
+    "ActionButton": {
+      "hoverBackground": "dark02",
+      "hoverBorderColor": "dark02",
+      "pressedBackground": "dark02",
+      "pressedBorderColor": "dark02"
     }
   } 
 }
