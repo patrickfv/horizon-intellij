@@ -22,7 +22,7 @@
   "ui": {
     "EditorTabs": {
       "hoverBackground": "dark03",
-      "borderColor": "#1C1E2600",
+      "borderColor": "dark03",
       "inactiveUnderlineColor": "dark03",
       "underlineColor": "pink02",
       "underlineHeight": 2,
@@ -36,12 +36,17 @@
     "TextArea.background": "dark",
     "Viewport.background": "dark03",
     "*": {
-      "separatorColor": "dark02",
+      "separatorColor": "dark03",
+      "borderColor": "dark03",
       "background": "dark03",
       "inactiveBackground": "dark03",
       "selectionBackground": "#252732",
       "selectionInactiveBackground": "#22232D",
       "foreground": "gray"
+    },
+    "Borders": {
+      "color": "dark03",
+      "ContrastBorderColor": "dark02"
     }
   } 
 }
