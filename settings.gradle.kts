@@ -1,1 +1,1 @@
-rootProject.name = "horizon-jetbrains-ide"
+rootProject.name = "horizon-intellij"
