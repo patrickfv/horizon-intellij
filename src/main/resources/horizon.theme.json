@@ -31,6 +31,15 @@
       "focusColor": "#E9436D",
       "focusedBorderColor": "#2E303E"
     },
+    "Plugins":{
+      "hoverBackground": "#252732",
+      "lightSelectionBackground": "#252732",
+      "Tab": {
+        "selectedBackground": "#1C1E26",
+        "selectedForeground": "#D5D8DA",
+        "hoverBackground": "#252732"
+      }
+    },
     "Borders": {
       "color": "#1C1E26",
       "ContrastBorderColor": "#2E303E"

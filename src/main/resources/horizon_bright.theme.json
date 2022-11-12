@@ -94,6 +94,15 @@
       "ArrowButton": {
         "nonEditableBackground": "#F9CBBE"
       }
+    },
+    "Plugins":{
+      "hoverBackground": "#F9CBBE",
+      "lightSelectionBackground": "#F9CBBE",
+      "Tab": {
+        "selectedBackground": "#F9CBBE",
+        "selectedForeground": "#06060C",
+        "hoverBackground": "#F9CBBE"
+      }
     }
   },
   "icons": {
