@@ -11,4 +11,6 @@
         <themeProvider id="com.github.patrickfv.horizonintellij.bright" path="/horizon_bright.theme.json"/>
     </extensions>
 
+    <description>A beautifully warm dual theme</description>
+
 </idea-plugin>
