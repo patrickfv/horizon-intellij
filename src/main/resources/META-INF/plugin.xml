@@ -3,14 +3,14 @@
     <id>com.github.patrickfv.horizonintellij</id>
     <name>Horizon</name>
     <vendor>patrickfv</vendor>
-
+    <description>
+        A beautifully warm dual theme for intellij, based on horizon theme.
+    </description>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.patrickfv.horizonintellij.dark" path="/horizon.theme.json"/>
         <themeProvider id="com.github.patrickfv.horizonintellij.bright" path="/horizon_bright.theme.json"/>
     </extensions>
-
-    <description>A beautifully warm dual theme</description>
 
 </idea-plugin>
