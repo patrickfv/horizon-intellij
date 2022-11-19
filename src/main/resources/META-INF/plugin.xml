@@ -3,11 +3,6 @@
     <id>com.github.patrickfv.horizonintellij</id>
     <name>Horizon</name>
     <vendor>patrickfv</vendor>
-    <description>
-        <![CDATA[
-        A beautifully warm dual theme for intellij, based on <a href="https://horizontheme.netlify.app/">horizon theme</a>.
-        ]]>
-    </description>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
