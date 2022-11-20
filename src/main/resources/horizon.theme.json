@@ -24,20 +24,20 @@
       "borderColor": "#1C1E26",
       "background": "#1C1E26",
       "inactiveBackground": "#1C1E26",
-      "selectionBackground": "#252732",
-      "selectionInactiveBackground": "#22232D",
+      "selectionBackground": "#2E303E",
+      "selectionInactiveBackground": "#232530",
       "disabledText": "#2E303E",
       "foreground": "#D5D8DA",
-      "focusColor": "#E9436D",
+      "focusColor": "#E9436F",
       "focusedBorderColor": "#2E303E"
     },
     "Plugins":{
-      "hoverBackground": "#252732",
-      "lightSelectionBackground": "#252732",
+      "hoverBackground": "#2E303E",
+      "lightSelectionBackground": "#2E303E",
       "Tab": {
         "selectedBackground": "#1C1E26",
         "selectedForeground": "#D5D8DA",
-        "hoverBackground": "#252732"
+        "hoverBackground": "#2E303E"
       }
     },
     "Borders": {
@@ -57,11 +57,11 @@
         "endBackground": "#E95378",
         "startBorderColor": "#E95378",
         "endBorderColor": "#E95378",
-        "focusedBorderColor": "#E9436D",
+        "focusedBorderColor": "#E9436F",
         "shadowColor": "#E95378",
 
         "foreground": "#D5D8DA",
-        "focusColor": "#E9436D"
+        "focusColor": "#E9436F"
       }
     },
     "ActionButton": {
