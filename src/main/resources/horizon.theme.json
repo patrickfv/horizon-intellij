@@ -125,13 +125,13 @@
       "Objects.BlackText": "#1A1C23",
       "Objects.Blue": "#26BBD9",
       "Objects.Green": "#29D398",
-      "Objects.GreenAndroid": "#29D398",
+      "Objects.GreenAndroid": "#09F7A0",
       "Objects.Grey": "#D5D8DA",
       "Objects.Purple": "#EE64AC",
       "Objects.Red": "#E95678",
-      "Objects.RedStatus": "#E95678",
+      "Objects.RedStatus": "#F43E5C",
       "Objects.Yellow": "#FAB795",
-      "Objects.YellowDark": "#FAB795"
+      "Objects.YellowDark": "#FAB28E"
     }
   }
 }
