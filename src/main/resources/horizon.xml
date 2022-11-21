@@ -1,9 +1,9 @@
 <scheme name="Horizon" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-11-20T16:56:26</property>
+    <property name="created">2022-11-21T12:46:39</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-20T16:56:30</property>
+    <property name="modified">2022-11-21T12:46:45</property>
     <property name="originalScheme">_@user_Horizon</property>
   </metaInfo>
   <colors>
@@ -491,6 +491,19 @@
     </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="BACKGROUND" value="6c6f93" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="BACKGROUND" value="6c6f93" />
+      </value>
+    </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
