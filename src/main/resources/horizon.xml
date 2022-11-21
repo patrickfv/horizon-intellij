@@ -1,17 +1,19 @@
 <scheme name="Horizon" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-11-21T12:46:39</property>
+    <property name="created">2022-11-21T14:45:48</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-21T12:46:45</property>
+    <property name="modified">2022-11-21T14:45:52</property>
     <property name="originalScheme">_@user_Horizon</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="e95378" />
     <option name="CARET_ROW_COLOR" value="232530" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1e26" />
+    <option name="DOCUMENTATION_COLOR" value="1c1e26" />
     <option name="DOC_COMMENT_GUIDE" value="343646" />
     <option name="DOC_COMMENT_LINK" value="26bbd9" />
+    <option name="ERROR_HINT" value="f43e5c" />
     <option name="FILESTATUS_ADDED" value="29d398" />
     <option name="FILESTATUS_COPIED" value="29d398" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f5157" />
@@ -33,12 +35,17 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="1c1e26" />
     <option name="INDENT_GUIDE" value="232530" />
+    <option name="INFORMATION_HINT" value="fac29a" />
     <option name="LINE_NUMBERS_COLOR" value="6c6f93" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="6c6f93" />
     <option name="LOOKUP_COLOR" value="1c1e26" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_TAB_ICON" value="1c1e26" />
+    <option name="NOTIFICATION_BACKGROUND" value="1c1e26" />
+    <option name="PROMOTION_PANE" value="fac29a" />
+    <option name="QUESTION_HINT" value="fac29a" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1c1e26" />
     <option name="RIGHT_MARGIN_COLOR" value="1c1e26" />
     <option name="SELECTED_INDENT_GUIDE" value="e95678" />
     <option name="SELECTED_TEARLINE_COLOR" value="2e303e" />
