@@ -100,6 +100,13 @@
       "borderColor": "#2E303E",
       "Header.activeBackground": "#1C1E26"
     },
+    "WelcomeScreen": {
+      "Projects": {
+        "selectionBackground": "#2E303E",
+        "selectionInactiveBackground": "#232530",
+        "actions.selectionBackground":  "#2E303E"
+      }
+    },
     "ComboBox": {
       "nonEditableBackground": "#2E303E",
       "ArrowButton": {

@@ -103,6 +103,13 @@
         "selectedForeground": "#16161C",
         "hoverBackground": "#F9CBBE"
       }
+    },
+    "WelcomeScreen": {
+      "Projects": {
+        "selectionBackground": "#F9CBBE",
+        "selectionInactiveBackground": "#F9CBBE",
+        "actions.selectionBackground":  "#F9CBBE"
+      }
     }
   },
   "icons": {
