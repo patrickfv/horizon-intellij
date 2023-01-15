@@ -7,6 +7,17 @@
     <property name="originalScheme">_@user_Horizon Bright</property>
   </metaInfo>
   <colors>
+  <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="da103f" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="CARET_COLOR" value="da103f" />
     <option name="CARET_ROW_COLOR" value="fadad1" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf0ed" />
