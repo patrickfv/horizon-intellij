@@ -127,7 +127,6 @@
     },
     "ComboBox": {
       "nonEditableBackground": "#2E303E",
-      "disabledBackground": "#2E303E",
       "ArrowButton": {
         "nonEditableBackground": "#2E303E"
       }
