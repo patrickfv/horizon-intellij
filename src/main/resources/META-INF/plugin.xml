@@ -1,13 +1,14 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.patrickfv.horizonintellij</id>
+    <id>com.davidmszrs.horizonjetbrains</id>
     <name>Horizon</name>
-    <vendor>patrickfv</vendor>
+    <vendor>davidmszrs</vendor>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.patrickfv.horizonintellij.dark" path="/horizon.theme.json"/>
-        <themeProvider id="com.github.patrickfv.horizonintellij.bright" path="/horizon_bright.theme.json"/>
+        <themeProvider id="com.davidmszrs.horizonjetbrains.dark" path="/horizon.theme.json"/>
+        <themeProvider id="com.davidmszrs.horizonjetbrains.bright" path="/horizon_bright.theme.json"/>
+<!--        <iconProvider implementation="com.davidmszrs.HorizonIconProvider"/>-->
     </extensions>
 
 </idea-plugin>
